@@ -1,6 +1,7 @@
 # fish-gho
 [![GitHub tag](https://img.shields.io/github/tag/tenfyzhong/fish-gho.svg)](https://github.com/tenfyzhong/fish-gho/tags)
 [![CI](https://github.com/tenfyzhong/fish-gho/actions/workflows/test.yml/badge.svg)](https://github.com/tenfyzhong/fish-gho/actions/workflows/test.yml)
+
 Open github Repo in terminal
 
 # usage
